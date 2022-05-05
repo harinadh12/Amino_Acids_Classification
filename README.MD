@@ -7,7 +7,7 @@ One form of interaction is the question of how well a peptide binds to a specifi
 # Amino Acids
 A total of 22 amino acids make up the building blocks for all peptides and proteins. The following table gives the names and one-letter codes used to represent these amino acids.
 
-<center><img src="Amino_Acids.png" alt="J" width="200"/></center>
+<center><img src="./Homework-05/Amino_Acids.png" alt="J" width="200"/></center>
 
 Each row in the CSV files contains two columns: a string representing the sequence of amino acids and a measure of
 binding affinity. Each character of the string corresponds to a unique amino acid. Here is an example:
